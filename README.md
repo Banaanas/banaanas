@@ -22,17 +22,17 @@
 
 
 <p align="center">
-    <a href="https://http://cyrilo.dev/">
+    <a href="https://https://cyrilo.dev/">
         <img src="./Cyril-banner.png" alt="Cyril Banner">
     </a>
 </p>
 
-<h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px">Hi ! Salut ! Holà ! <img src="./smiling-emoji.gif" alt="Emoji Gif" width="30px"></h1>
+<h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px">Hi ! Salut ! Holà ! <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"></h1>
 <h2 align="center">My name is Cyril and I'm a JS Developer </h2>
 
 <p align="center">
     Simple, Creative and Elegant Developer Portfolio.<br/><br/>
-    <a href="https://cyrilo.dev/">:computer: Live Demo :eyes:</a><br/><br/>
+    <a href="https://cyrilo.dev/">:computer: Portfolio :eyes:</a><br/><br/>
 </p>
 
 
