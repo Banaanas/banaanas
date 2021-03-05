@@ -33,7 +33,7 @@
 
 <h4 align="left">What I do : </h3>
 
-<p align="center">
+<p align="left">
     I enjoy building well-designed, accessible, user friendly and responsive Applications.<br/><br/>
     <a href="https://cyrilo.dev/">:computer: Portfolio :eyes:</a><br/><br/>
 </p>
