@@ -49,12 +49,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<!-- PROJECT LINK -->
-
-## Project Link
-
-[https://github.com/Banaanas/cyrilo-portfolio](https://github.com/Banaanas/cyrilo-portfolio)
-
 
 <!-- ACKNOWLEDGEMENTS -->
 
