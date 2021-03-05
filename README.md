@@ -21,16 +21,14 @@
 [![MIT License][license-shield]][license-url]
 
 
-<br/>
-<!-- PROJECT LOGO -->
-<br/>
 <p align="center">
     <a href="https://http://cyrilo.dev/">
         <img src="./Cyril-banner.png" alt="Cyril Banner">
     </a>
 </p>
 
-<h1 align="center">☺️ cyrilo.dev ✨</h1>
+<h1 align="center">Hi ! Salut ! Holà </h1>
+<h2 align="center">My name is Cyril and I'm a JS Developer </h2>
 
 <p align="center">
     Simple, Creative and Elegant Developer Portfolio.<br/><br/>
