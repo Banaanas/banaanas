@@ -28,14 +28,26 @@
 </p>
 
 <h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"> Hi ! Salut ! Holà ! <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"></h1>
-<h3 align="center">I'm Cyril </h3>
+<h2 align="center">I'm Cyril </h2>
 <p align="center"><a href="https://cyrilo.dev/">:computer: Portfolio :eyes:</a></p><br/><br/>
 
-#### What I do
+- ### What I do :
 
 <p align="left">
     I enjoy building well-designed, accessible, user friendly and responsive Applications.<br/><br/>
 </p>
+
+- ### Tools I use :
+
+<p align="left">
+    React - GraphQL .<br/><br/>
+</p>
+
+- ### Where I've learned :
+
+- [The Odin Project](https://www.theodinproject.com/)
+- [Full Stack Open](https://fullstackopen.com/en/)
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -47,15 +59,6 @@
 [![Personal Website][personal-website-shield]][personal-website-url]
 [![Mail][personal-email-shield]](mailto:cyrilo.dev@gmail.com)
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [The Odin Project](https://www.theodinproject.com/)
-- [Full Stack Open](https://fullstackopen.com/en/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
