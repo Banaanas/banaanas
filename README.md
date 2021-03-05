@@ -27,8 +27,8 @@
     </a>
 </p>
 
-<h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px">Hi ! Salut ! Holà ! <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"></h1>
-<h2 align="center">My name is Cyril and I'm a JS Developer </h2>
+<h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"> Hi ! Salut ! Holà ! <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"></h1>
+<h3 align="center">My name is Cyril and I'm a JS Developer </h3>
 
 <p align="center">
     Simple, Creative and Elegant Developer Portfolio.<br/><br/>
