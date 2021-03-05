@@ -26,7 +26,7 @@
 <br/>
 <p align="center">
     <a href="https://http://cyrilo.dev/">
-        <img src="./Cyril-banner.png" alt="Cyril Banner" width="400">
+        <img src="./Cyril-banner.png" alt="Cyril Banner">
     </a>
 </p>
 
