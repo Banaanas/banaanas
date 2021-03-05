@@ -29,13 +29,13 @@
 
 <h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"> Hi ! Salut ! Holà ! <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"></h1>
 <h3 align="center">My name is Cyril and I'm a JS Developer </h3>
+<a href="https://cyrilo.dev/">:computer: Portfolio :eyes:</a><br/><br/>
 
 
 <h4 align="left">What I do : </h3>
 
 <p align="left">
     I enjoy building well-designed, accessible, user friendly and responsive Applications.<br/><br/>
-    <a href="https://cyrilo.dev/">:computer: Portfolio :eyes:</a><br/><br/>
 </p>
 
 
