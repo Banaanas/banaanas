@@ -28,7 +28,7 @@
 </p>
 
 <h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"> Hi ! Salut ! Holà ! <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px"></h1>
-<h3 align="center">I al Cyril | JS Developer </h3>
+<h3 align="center">I'm Cyril </h3>
 <p align="center"><a href="https://cyrilo.dev/">:computer: Portfolio :eyes:</a></p><br/><br/>
 
 #### What I do
