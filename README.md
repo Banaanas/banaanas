@@ -45,8 +45,8 @@
 
 - ### Where I've learned :
 
-- [The Odin Project](https://www.theodinproject.com/)
-- [Full Stack Open](https://fullstackopen.com/en/)
+    - [The Odin Project](https://www.theodinproject.com/)
+    - [Full Stack Open](https://fullstackopen.com/en/)
 
 
 
