@@ -27,7 +27,7 @@
     </a>
 </p>
 
-<h1 align="center">Hi ! Salut ! Holà ! <img src="./smiling-emoji.gif" alt="Emoji Gif" width="30px"></h1>
+<h1 align="center"> <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px">Hi ! Salut ! Holà ! <img src="./smiling-emoji.gif" alt="Emoji Gif" width="30px"></h1>
 <h2 align="center">My name is Cyril and I'm a JS Developer </h2>
 
 <p align="center">
