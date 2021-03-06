@@ -43,13 +43,13 @@
 <p align="left">
 
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white" alt="Next.js Badge">
 <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" alt="React Badge">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white" alt="Chakra UI Badge">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
 </p>
 
 - ### Where I've learned :
@@ -57,14 +57,10 @@
     - [The Odin Project](https://www.theodinproject.com/)
     - [Full Stack Open](https://fullstackopen.com/en/)
 
-
-
-<!-- ABOUT THE PROJECT -->
-
+  
 <!-- CONTACT -->
 
-## Contact
-
+- ### Contact
 [![Personal Website][personal-website-shield]][personal-website-url]
 [![Mail][personal-email-shield]](mailto:cyrilo.dev@gmail.com)
 [![LinkedIn][linkedin-shield]][linkedin-url]
