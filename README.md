@@ -42,7 +42,10 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/-HTML5-61DAFB?logo=html5" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5 Badge">
 </p>
 
 - ### Where I've learned :
