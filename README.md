@@ -34,7 +34,7 @@
 
 
 
-- ### What I do :
+- ### What I do
 
 <p align="left">
     I enjoy building well-designed, accessible, user friendly and responsive Applications.<br/><br/>
@@ -42,10 +42,9 @@
 
 
 
-- ### Tools I use :
+- ### Tools I use
 
 <p align="left">
-
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" alt="JavaScript Badge">
@@ -58,7 +57,8 @@
 
 
 
-- ### Things I'm currently learning :
+- ### Things I'm currently learning
+
 <p align="left">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript-ui&logoColor=white" alt="TypeScript UI Badge">
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white" alt="GraphQL Badge">
@@ -67,15 +67,18 @@
 
 
 
-- ### Where I've learned :
+- ### Where I've learned
 
     - [The Odin Project](https://www.theodinproject.com/)
     - [Full Stack Open](https://fullstackopen.com/en/)
   
+
+
 - ### Contact
 [![Personal Website][personal-website-shield]][personal-website-url]
 [![Mail][personal-email-shield]](mailto:cyrilo.dev@gmail.com)
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
