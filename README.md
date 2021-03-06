@@ -37,8 +37,9 @@
 - ### What I do
 
 <p align="left">
-    I enjoy building well-designed, accessible, user friendly and responsive Applications.<br/><br/>
+    I enjoy building well-designed, accessible, user friendly and responsive Applications.
 </p>
+<br/>
 
 
 
