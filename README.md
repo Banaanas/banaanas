@@ -39,6 +39,7 @@
 <p align="left">
     I enjoy building well-designed, accessible, user friendly and responsive Applications.<br/><br/>
 </p>
+<br/>
 
 
 
@@ -54,6 +55,7 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
 </p>
+<br/>
 
 
 
@@ -64,6 +66,7 @@
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white" alt="GraphQL Badge">
 <img src="https://img.shields.io/badge/-Strapi-2E7EEA?logo=Strapi&logoColor=white" alt="Strapi Badge">
 </p>
+<br/>
 
 
 
@@ -71,7 +74,8 @@
 
     - [The Odin Project](https://www.theodinproject.com/)
     - [Full Stack Open](https://fullstackopen.com/en/)
-  
+<br/>
+
 
 
 - ### Contact
