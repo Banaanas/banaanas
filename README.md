@@ -41,7 +41,8 @@
 - ### Tools I use :
 
 <p align="left">
-[![https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26]]
+
+<img src="https://img.shields.io/badge/-HTML5-61DAFB?logo=html5" alt="HTML5 Badge">
 </p>
 
 - ### Where I've learned :
