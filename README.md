@@ -41,7 +41,7 @@
 - ### Tools I use :
 
 <p align="left">
-    React - GraphQL .<br/><br/>
+    https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26
 </p>
 
 - ### Where I've learned :
