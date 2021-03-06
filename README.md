@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=REACT&logoColor=black" alt="React Badge">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/-Chakra%UI-319795?logo=ChakraUI&logoColor=white" alt="Chakra UI Badge">
+<img src="https://img.shields.io/badge/-Chakra%UI-319795?logo=chakra-ui&logoColor=white" alt="Chakra UI Badge">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
 </p>
 
