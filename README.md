@@ -39,7 +39,6 @@
 <p align="left">
     I enjoy building well-designed, accessible, user friendly and responsive Applications.<br/><br/>
 </p>
-<br/>
 
 
 
