@@ -22,7 +22,7 @@
 
 <p align="center">
     <a href="https://https://cyrilo.dev/">
-        <img src="./Cyril-banner.png" alt="Cyril Banner">
+        <img src="./Cyril-GitHub-Banner.png" alt="Cyril Banner">
     </a>
 </p>
 
