@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=Chakra-UI&logoColor=white" alt="Chakra UI Badge">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
+<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white" alt="GraphQL Badge">
 </p>
 
 
@@ -62,8 +63,6 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript-ui&logoColor=white" alt="TypeScript UI Badge">
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white" alt="GraphQL Badge">
-<img src="https://img.shields.io/badge/-Strapi-2E7EEA?logo=Strapi&logoColor=white" alt="Strapi Badge">
 </p>
 
 
