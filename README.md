@@ -37,11 +37,10 @@
 - ### What I do
 
 <p align="left">
-    I design **markup** and build high-performance, accessible, elegant and responsive 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀. I work with the 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
-    ecosystem, including  <b>TypeScript</b> 𝗥𝗲𝗮𝗰𝘁 and 𝗡𝗲𝘅𝘁.𝗷𝘀.
+    I design and build high-performance, accessible, elegant and responsive <b>Web Applications</b>. I work with the
+    <b>JavaScript</b> ecosystem, including <b>TypeScript</b>, <b>React</b> and <b>Next.js</b>.
 </p>
 
-**TypeScript**
 
 
 - ### Tools I use
