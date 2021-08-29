@@ -38,7 +38,7 @@
 
 <p align="left">
     I design and build high-performance, accessible, elegant and responsive 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀. I work with the 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁
-    ecosystem, including **TypeScript** 𝗥𝗲𝗮𝗰𝘁 and 𝗡𝗲𝘅𝘁.𝗷𝘀.
+    ecosystem, including  ** TypeScript ** 𝗥𝗲𝗮𝗰𝘁 and 𝗡𝗲𝘅𝘁.𝗷𝘀.
 </p>
 
 
