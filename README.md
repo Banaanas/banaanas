@@ -59,12 +59,13 @@
 </p>
 
 
-
+<!---
 - ### Things I'm currently learning
 
 <p align="left">
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript-ui&logoColor=white" alt="TypeScript UI Badge">
 </p>
+-->
 
 
 
