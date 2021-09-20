@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white" alt="Next.js Badge">
 <img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" alt="React Badge">
 <img src="https://img.shields.io/badge/-Chakra%20UI-319795?logo=Chakra-UI&logoColor=white" alt="Chakra UI Badge">
+<img src="https://img.shields.io/badge/-Storybook-FFFFFF?logo=Storybook&logoColor=white" alt="Storybook Badge">
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
 <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white" alt="GraphQL Badge">
