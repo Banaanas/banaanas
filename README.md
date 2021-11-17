@@ -37,8 +37,8 @@
 - ### What I do
 
 <p align="left">
-    I design and build high-performance, accessible, elegant and responsive <b>Web Applications</b>. I work with the
-    <b>JavaScript</b> ecosystem, including <b>TypeScript</b>, <b>React</b> and <b>Next.js</b>.
+    I design and build high-performance, accessibles and elegant Web applications. I work with the
+    <b>JavaScript</b> ecosystem, including <b>React</b>, <b>Next.js</b> and <b>TypeScript</b>.
 </p>
 
 
