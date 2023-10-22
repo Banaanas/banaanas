@@ -28,7 +28,7 @@
 
 <h1 align="center">👋 Hi! Salut! Holà! I'm Cyril 🚀</h1>
 <h2 align="center">
-  <a href="https://cyrilo.dev/">🌐 Check Out My Portfolio 🌐</a>
+  <a href="https://cyrilo.dev/" target="_blank" rel="noopener noreferrer" style="color: red;">🌐 Check Out My Portfolio 🌐</a>
 </h2>
 
 ---
