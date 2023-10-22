@@ -27,9 +27,9 @@
 </p>
 
 <h1 align="center">🌟 Hi! Salut! Holà! I'm Cyril 🌟</h1>
-<h2 align="center">
+<h3 align="center">
   <a href="https://cyrilo.dev/" target="_blank" rel="noopener noreferrer">Check out my Portfolio</a>
-</h2>
+</h3>
 
 ---
 
