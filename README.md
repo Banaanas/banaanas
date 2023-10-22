@@ -26,37 +26,38 @@
     </a>
 </p>
 
-<h1 align="center"> <img src="./sparkles-emoji.gif" alt="Sparkles Emoji Gif" width="30px" height="30px"> Hi ! Salut ! Holà ! <img src="./sparkles-emoji.gif" alt="Emoji Gif" width="30px" height="30px"></h1>
+<h1 align="center">👋 Hi! Salut! Holà! I'm Cyril 🚀</h1>
 <h2 align="center">
-  <a href="https://cyrilo.dev/">:computer: Portfolio :eyes:</a>
+  <a href="https://cyrilo.dev/">🌐 Check Out My Portfolio 🌐</a>
 </h2>
-<br/>
 
+---
 
+📌 **About Me:**
+- 🌱 I'm a passionate web developer specializing in JavaScript, React, Next.js, and TypeScript.
+- 🎯 I aim to create high-performance, accessible, and elegant web applications.
+- 💼 Currently open to new opportunities and collaborations.
 
-- ### What I do
+---
 
-<p align="left">
-    I design and build high-performance, accessible and elegant Web applications. I work with the
-    <b>JavaScript</b> ecosystem, including <b>React</b>, <b>Next.js</b> and <b>TypeScript</b>.
-</p>
-
-
-
-- ### Tools I use
-
+🛠 **Technologies & Tools:**
 <p align="left">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white" alt="Next.js Badge">
-<img src="https://img.shields.io/badge/-Next.js-black?logo=Next.js&logoColor=white" alt="React Badge">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white" alt="TypeScript UI Badge">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" alt="Node.js Badge">
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white" alt="GraphQL Badge">
-<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma Badge">
+<!-- ... other badges ... -->
 </p>
 
+---
+
+📖 **Where I've Learned:**
+- [The Odin Project](https://www.theodinproject.com/)
+- [Full Stack Open](https://fullstackopen.com/en/)
+
+---
+
+📬 **Get in Touch:**
+[![Personal Website][personal-website-shield]][personal-website-url]
+[![Mail][personal-email-shield]](mailto:cyrilo.dev@gmail.com)
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!---
