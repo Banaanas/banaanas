@@ -60,29 +60,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<!---
-- ### Things I'm currently learning
-
-<p align="left">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript-ui&logoColor=white" alt="TypeScript UI Badge">
-</p>
--->
-
-
-
-- ### Where I've learned
-
-    - [The Odin Project](https://www.theodinproject.com/)
-    - [Full Stack Open](https://fullstackopen.com/en/)
-
-
-
-- ### Contact
-[![Personal Website][personal-website-shield]][personal-website-url]
-[![Mail][personal-email-shield]](mailto:cyrilo.dev@gmail.com)
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
