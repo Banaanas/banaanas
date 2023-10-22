@@ -38,7 +38,6 @@
 - 🎯 I aim to create high-performance, accessible, and elegant web applications.
 - 💼 Currently open to new opportunities and collaborations.
 
----
 
 🛠 **Technologies & Tools:**
 <p align="left">
