@@ -26,10 +26,10 @@
     </a>
 </p>
 
-<h1 align="center">🌟 Hi! Salut! Holà! I'm Cyril 🌟</h1>
-<h3 align="center">
+<h3 align="center">🌟 Hi! Salut! Holà! I'm Cyril 🌟</h4>
+<h4 align="center">
   <a href="https://cyrilo.dev/" target="_blank" rel="noopener noreferrer">Check out my Portfolio</a>
-</h3>
+</h4>
 
 ---
 
