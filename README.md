@@ -27,7 +27,9 @@
 </p>
 
 <p align="center" style="text-align: center;">
-    <strong style="display: block;">🌟 Hi! Salut! Holà!</strong>
+    <strong style="display: block;">🌟 Hi! Salut! Holà!🌟</strong>
+</p>
+<p align="center" style="text-align: center;">
     <strong style="display: block;">I'm Cyril</strong>
 </p>
 
