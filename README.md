@@ -25,8 +25,10 @@
         <img src="./Cyril-GitHub-Banner.png" alt="Cyril Banner">
     </a>
 </p>
+<p align="center">
 
 <strong align="center">🌟 Hi! Salut! Holà! I'm Cyril 🌟</strong>
+</p>
 
 <h4 align="center">
   <a href="https://cyrilo.dev/" target="_blank" rel="noopener noreferrer">Check out my Portfolio</a>
