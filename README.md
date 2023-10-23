@@ -25,9 +25,10 @@
         <img src="./Cyril-GitHub-Banner.png" alt="Cyril Banner">
     </a>
 </p>
-<p align="center">
 
-<strong align="center">🌟 Hi! Salut! Holà! I'm Cyril 🌟</strong>
+<p align="center" style="text-align: center;">
+    <strong style="display: block;">🌟 Hi! Salut! Holà!</strong>
+    <strong style="display: block;">I'm Cyril</strong>
 </p>
 
 <h4 align="center">
